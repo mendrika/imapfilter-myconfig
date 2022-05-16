@@ -1,3 +1,4 @@
+-- do not dumbly copy and paste :-) 
 local accountBL = IMAP {
     server = 'XXXXX',
     username = 'XXXXX',
