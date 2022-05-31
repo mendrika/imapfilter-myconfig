@@ -1,5 +1,5 @@
 # but why?
-Thunderbird fitlers causes heavy load on my laptop :-)
+Thunderbird fitlers cause heavy load on my laptop :-)
 It may save your life so feel free to use it.
 
 # imapfilter-myconfig
